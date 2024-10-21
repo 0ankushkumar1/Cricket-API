@@ -1,0 +1,39 @@
+Player 
+    Batsman Profile - 
+            Include Innings, Runs, Strike Rate,Highest Score,100s,50s,Average,Last 5 Innings
+    Bowler Profile - 
+            Include Innnings,Wickets,Strike Rate,Best Fig, Economy, Last 5 Innings
+
+Batsman Vs Team:
+    Runs, Strike Rate, Highest Score, Average
+
+Bowler Vs Team:
+    Runs Given, Wickets, Strike Rate, Best figure, Economy
+
+Venue 
+    Highest Score of Batsman
+    Highest Score of Team
+    Lowest Score of Team
+    Average First Innings Score
+    Average Second Innings Score
+    Best Bowling Fig
+    
+Player Vs Player (Both Cases):
+        Batsman Vs Batsman (Profile Comparison)
+        Bowler Vs Bowler (Profile Comparison)
+        Batsman vs Bowler( No. of times out, strike rate, runs, Sixes,fours)
+Most Catches
+Most Runouts
+Most Ducks
+Most on 90+
+Highest Team Scores(Overall and Season Wise)
+Lowest Team Score(Overall and Season Wise)
+Most Stumpings
+Most times Bowled
+Most number of Umpirings
+Most matches Played
+Chase Analysis
+Seasonal Analysis of Players
+
+
+
