@@ -29,7 +29,7 @@ Miscellaneous Stats:
 ## Technologies Used
 
 Python: Backend logic and data processing.  
-Flask: Framework to create RESTful API endpoints.  
+Flask: Framework to create API endpoints.  
 Pandas: For handling and processing cricket data efficiently.
 
 
